@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "website profile perusahaan",
   "productName": "PT. META REKSA DIGITAL",
-  "author": "Juli Soeprapto <juli.iot@ubl.ac.id>",
+  "author": "gunawa414@gmail.com",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue ./",
